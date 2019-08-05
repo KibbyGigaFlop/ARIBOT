@@ -1,0 +1,14 @@
+{
+  "name": "ari-bot",
+  "version": "1.0.0",
+  "description": "Alpha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RANDALIEREN/Timothy Bain",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
