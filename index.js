@@ -5,7 +5,7 @@ const AriClient = new Client();
 
 const token = 'NjA3NTU0NTE2NTMxMDE5Nzg2.XUoMYw.Q1-OwYUZ2CoVPjT9aYZCzuFfmkI';
 const custPrefix = 'ari!';
-var version = '0.0.3, alpha';
+var version = '0.1.0, alpha';
 AriClient.login(token);
 
 AriClient.on('ready', () =>{
